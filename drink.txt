@@ -1,0 +1,4 @@
+
+vodka , Grande , 3.48
+ron , Mediano , 5.8
+whiskey , Grande , 6.96
